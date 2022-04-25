@@ -102,3 +102,22 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 /* JavaScript Turned Off */
 .no-js #loader-wrapper { display: none; }
 /*============ Preloader ends ==================================*/
+
+#flag-vn {
+    width: 30px;
+    height: auto;
+    top: 10px;
+    right: 60px;
+    position: absolute;
+    border: 1px solid wheat;
+    cursor: pointer;
+}
+#flag-en {
+    width: 32px;
+    height: auto;
+    top: 10px;
+    right: 22px;
+    position: absolute;
+    border: 1px solid wheat;
+    cursor: pointer;
+}
